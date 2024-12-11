@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Portfolio](https://caritalin.github.io/Portfolio/)
 
-- 🌱 I’m currently learning **AWS, Java, C#, Rust, Ada, NET.**
+- 🌱 I’m currently learning **Testing, React, React Native, Kotlin, QML**
 
-- 👨‍💻 All of my projects are available at [https://caritalin.github.io/Portfolio/](https://caritalin.github.io/Portfolio/)
+- 👨‍💻 Some of my projects are available at [https://caritalin.github.io/Portfolio/](https://caritalin.github.io/Portfolio/)
 
 - 📫 How to reach me **https://docs.google.com/forms/d/e/1FAIpQLSeWCWW_CGxPDVWyNfwpibW2gFNMC0TQwhzYKWXDr9tz_9FdtQ/viewform?pli=1**
 

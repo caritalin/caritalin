@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carita Lindfors</h1>
+[<h1 align="center">Hi 👋, I'm Carita Lindfors</h1>
 <h3 align="center">Versatile IT Engineering Student with a Passion for Technological Innovation. I'm currently studying IT engineering in Tampere University of Applied Sciences, taking classes in different tech areas and I’m eager to embrace new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caritalin&label=Profile%20views&color=0e75b6&style=flat" alt="caritalin" /> </p>
@@ -27,3 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caritalin&" alt="caritalin" /></p>
 
+](https://docs.google.com/forms/d/e/1FAIpQLSeWCWW_CGxPDVWyNfwpibW2gFNMC0TQwhzYKWXDr9tz_9FdtQ/viewform?pli=1)
